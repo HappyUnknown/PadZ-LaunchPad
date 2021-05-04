@@ -1,0 +1,17 @@
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\MainWindow.g.cs
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\App.g.cs
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ_MarkupCompile.cache
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ_MarkupCompile.lref
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\bin\Debug\PadZ.exe.config
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\bin\Debug\PadZ.exe
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\bin\Debug\PadZ.pdb
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\MainWindow.baml
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.g.resources
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.Properties.Resources.resources
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.csproj.GenerateResource.cache
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.csproj.CoreCompileInputs.cache
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.exe
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.pdb
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadWindow.g.cs
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadWindow.baml
+D:\Tools\Programming\Source - Visual Studio\Author Apps\PadZ\PadZ\obj\Debug\PadZ.csprojAssemblyReference.cache

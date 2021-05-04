@@ -1,0 +1,23 @@
+﻿<Window x:Class="PadZ.PadWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PadZ"
+        mc:Ignorable="d"
+        Title="PadWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel Orientation="Vertical">
+                <WrapPanel>
+                    <Button Content="Switch" Width="50" Name="btnEnableQueue" Click="btnEnableQueue_Click"/>
+                    <Button Content="-" Width="50" IsEnabled="False" Name="btnOfQueueSound" Click="btnOfQueueSound_Click"/>
+                    <Button Content="Play" Width="50" Name="btnPlayQueue" Click="btnPlayQueue_Click" />
+                </WrapPanel>
+                <ListBox x:Name="liQueue" Width="150" Height="400"/>
+            </StackPanel>
+            <WrapPanel  Name="pnlContent">
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>
